@@ -1,23 +1,44 @@
 [
   {
-    "id": "aventura-pt",
-    "titulo": "Aventuras no Espaço",
-    "capa": "livros/aventura-pt/capa.jpg",
-    "base": "livros/aventura-pt/",
+    "id": "heroi-pt-1",
+    "titulo": "A Jornada do Herói",
+    "capa": "pt/jornada-do-heroi/capa.jpg",
+    "base": "pt/jornada-do-heroi/",
     "lang": "pt"
   },
   {
-    "id": "space-adventure-en",
-    "titulo": "Space Adventure",
-    "capa": "livros/space-adventure-en/cover.jpg",
-    "base": "livros/space-adventure-en/",
+    "id": "mistério-pt-2",
+    "titulo": "O Mistério da Ilha Perdida",
+    "capa": "pt/misterio-ilha-perdida/capa.jpg",
+    "base": "pt/misterio-ilha-perdida/",
+    "lang": "pt"
+  },
+  {
+    "id": "hero-en-1",
+    "titulo": "The Hero's Journey",
+    "capa": "en/heros-journey/cover.jpg",
+    "base": "en/heros-journey/",
     "lang": "en"
   },
   {
-    "id": "aventura-es",
-    "titulo": "Aventuras en el Espacio",
-    "capa": "livros/aventura-es/portada.jpg",
-    "base": "livros/aventura-es/",
+    "id": "mystery-en-2",
+    "titulo": "The Mystery of the Lost Island",
+    "capa": "en/mystery-lost-island/cover.jpg",
+    "base": "en/mystery-lost-island/",
+    "lang": "en"
+  },
+  {
+    "id": "heroe-es-1",
+    "titulo": "El Viaje del Héroe",
+    "capa": "es/viaje-del-heroe/portada.jpg",
+    "base": "es/viaje-del-heroe/",
+    "lang": "es"
+  },
+  {
+    "id": "misterio-es-2",
+    "titulo": "El Misterio de la Isla Perdida",
+    "capa": "es/misterio-isla-perdida/portada.jpg",
+    "base": "es/misterio-isla-perdida/",
     "lang": "es"
   }
 ]
