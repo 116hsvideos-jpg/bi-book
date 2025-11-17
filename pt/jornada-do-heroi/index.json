@@ -1,29 +1,15 @@
 [
   {
-    "title": "Parte I: A Jornada Inicia",
-    "file": "parte1.txt",
-    "children": [
-      {
-        "title": "Capítulo 1: O Chamado",
-        "file": "cap01.txt"
-      },
-      {
-        "title": "Capítulo 2: A Recusa",
-        "file": "cap02.txt"
-      }
-    ]
+    "title": "Prólogo",
+    "file": "prologo.txt"
   },
   {
-    "title": "Parte II: Provações",
-    "file": "parte2.txt",
+    "title": "Capítulo 1: O Chamado",
+    "file": "cap01.txt",
     "children": [
       {
-        "title": "Capítulo 3: Aliados e Inimigos",
-        "file": "cap03.txt"
-      },
-      {
-        "title": "Capítulo 4: A Provação Suprema",
-        "file": "cap04.txt"
+        "title": "1.1 A Partida",
+        "file": "cap01a.txt"
       }
     ]
   }
