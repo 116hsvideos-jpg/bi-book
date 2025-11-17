@@ -1,0 +1,23 @@
+[
+  {
+    "id": "aventura-pt",
+    "titulo": "Aventuras no Espaço",
+    "capa": "livros/aventura-pt/capa.jpg",
+    "base": "livros/aventura-pt/",
+    "lang": "pt"
+  },
+  {
+    "id": "space-adventure-en",
+    "titulo": "Space Adventure",
+    "capa": "livros/space-adventure-en/cover.jpg",
+    "base": "livros/space-adventure-en/",
+    "lang": "en"
+  },
+  {
+    "id": "aventura-es",
+    "titulo": "Aventuras en el Espacio",
+    "capa": "livros/aventura-es/portada.jpg",
+    "base": "livros/aventura-es/",
+    "lang": "es"
+  }
+]
