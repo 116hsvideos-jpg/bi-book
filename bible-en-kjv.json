@@ -1,0 +1,22 @@
+[
+  {
+    "livro": "Genesis",
+    "capitulo": 1,
+    "idioma": "en",
+    "testamento": "old",
+    "versiculos": {
+      "1": "In the beginning God created the heaven and the earth.",
+      "2": "And the earth was without form, and void..."
+    }
+  },
+  {
+    "livro": "Genesis",
+    "capitulo": 2,
+    "idioma": "en",
+    "testamento": "old",
+    "versiculos": {
+      "1": "Thus the heavens and the earth were finished...",
+      "2": "And on the seventh day God ended his work..."
+    }
+  }
+]
