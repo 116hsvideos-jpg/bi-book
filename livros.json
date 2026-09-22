@@ -1,44 +1,24 @@
 [
   {
-    "id": "heroi-pt-1",
-    "titulo": "A Jornada do Herói",
-    "capa": "pt/jornada-do-heroi/capa.jpg",
-    "base": "pt/jornada-do-heroi/",
-    "lang": "pt"
+    "livro_id": "exo",
+    "livro": "Exodus",
+    "capitulo": 13,
+    "idioma": "en",
+    "testamento": "old",
+    "versiculos": {
+      "1": "aa545454545445.",
+      "2": "ccgrrrthhrthrhtrhhtthrrt..."
+    }
   },
   {
-    "id": "mistério-pt-2",
-    "titulo": "O Mistério da Ilha Perdida",
-    "capa": "pt/misterio-ilha-perdida/capa.jpg",
-    "base": "pt/misterio-ilha-perdida/",
-    "lang": "pt"
-  },
-  {
-    "id": "hero-en-1",
-    "titulo": "The Hero's Journey",
-    "capa": "en/heros-journey/cover.jpg",
-    "base": "en/heros-journey/",
-    "lang": "en"
-  },
-  {
-    "id": "mystery-en-2",
-    "titulo": "The Mystery of the Lost Island",
-    "capa": "en/mystery-lost-island/cover.jpg",
-    "base": "en/mystery-lost-island/",
-    "lang": "en"
-  },
-  {
-    "id": "heroe-es-1",
-    "titulo": "El Viaje del Héroe",
-    "capa": "es/viaje-del-heroe/portada.jpg",
-    "base": "es/viaje-del-heroe/",
-    "lang": "es"
-  },
-  {
-    "id": "misterio-es-2",
-    "titulo": "El Misterio de la Isla Perdida",
-    "capa": "es/misterio-isla-perdida/portada.jpg",
-    "base": "es/misterio-isla-perdida/",
-    "lang": "es"
+    "livro_id": "Mar",
+    "livro": "Marc",
+    "capitulo": 1,
+    "idioma": "en",
+    "testamento": "new",
+    "versiculos": {
+      "1": "bbbbgfgffgfgfgb...",
+      "2": "666666666666666666666..."
+    }
   }
 ]
