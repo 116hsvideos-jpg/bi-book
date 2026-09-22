@@ -1,0 +1,24 @@
+[
+  {
+    "livro_id": "exo",
+    "livro": "Exodus",
+    "capitulo": 13,
+    "idioma": "en",
+    "testamento": "old",
+    "versiculos": {
+      "1": "aa545454545445.",
+      "2": "ccgrrrthhrthrhtrhhtthrrt..."
+    }
+  },
+  {
+    "livro_id": "Mar",
+    "livro": "Marc",
+    "capitulo": 1,
+    "idioma": "en",
+    "testamento": "new",
+    "versiculos": {
+      "1": "bbbbgfgffgfgfgb...",
+      "2": "666666666666666666666..."
+    }
+  }
+]
